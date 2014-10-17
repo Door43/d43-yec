@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yec:home|Door43 (yec)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yec|d43-yec repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yec/archive/master.zip|d43-yec.zip]]
+
+**Recent Changes**
+{{changes>ns = yec}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yec|Ethnologue data]]
+
